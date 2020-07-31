@@ -63,6 +63,6 @@ Then you can use "!!save size" to get your server's save size.
 
 A:![Not Vanilla](https://i.loli.net/2020/07/31/iVHD7o8QCpKYPsM.jpg)
 
-2.Q:Muti-Language?
+2.Q:Multi-Language?
 
 A:No.
